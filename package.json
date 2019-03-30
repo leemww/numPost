@@ -1,0 +1,14 @@
+{
+  "name": "numpost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "engins":{
+	  "node":"10.15.3"
+  },
+  "directories": {
+
+  },
+  "author": "",
+  "license": "ISC"
+}
