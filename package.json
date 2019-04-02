@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "scripts":{
-	  "start":"node app.js"
-  }
+  "scripts": {
+	  "start": "node app.js"
+  },
   "engins":{
-	  "node":"10.15.3"
+	  "node": "10.15.3"
   },
   "directories": {
 
